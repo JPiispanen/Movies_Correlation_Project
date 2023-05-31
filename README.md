@@ -2,7 +2,7 @@
   Tutorial by AlexTheAnalyst: Data cleaning and correlations with Python 
 
 ## Data
-Downloaded Movie Industry data by Daniel Grijalva form [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies)
+Downloaded Movie Industry data by Daniel Grijalva from [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies)
 
 ## Procedures
 1. Import libraries (Pandas, Seaborn, Numpy, Matplotlib)
